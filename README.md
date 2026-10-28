@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/boot-dark-388.svg"><img src="./assets/cards/boot-light-388.svg" width="388" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/shifter-dark-388.svg"><img src="./assets/cards/shifter-light-388.svg" width="388" alt="electronic-shifter-mbd"></picture></a>
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/boot-dark-356.svg"><img src="./assets/cards/boot-light-356.svg" width="356" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/shifter-dark-356.svg"><img src="./assets/cards/shifter-light-356.svg" width="356" alt="electronic-shifter-mbd"></picture></a>
 
 <img src="https://skillicons.dev/icons?i=c,python,matlab" height="40" alt="C, Python, MATLAB" />
 &nbsp;
