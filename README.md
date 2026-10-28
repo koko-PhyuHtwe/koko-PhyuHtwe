@@ -1,4 +1,4 @@
-<img src="./assets/typing.svg" height="62" alt="代码可以改变世界，我来改变代码" />
+<img src="./assets/typing-v2.svg" height="62" alt="代码可以改变世界，我来改变代码" />
 
 <div align="center">
 
