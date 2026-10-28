@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="118" viewBox="0 0 388 118">
+<defs><clipPath id="r"><rect width="380" height="118" rx="8"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="380" height="118" fill="#ffffff"/>
+<rect width="380" height="34" fill="#f6f8fa"/>
+<line x1="0" y1="34" x2="380" y2="34" stroke="#eaeef2"/>
+<line x1="0" y1="92" x2="380" y2="92" stroke="#eaeef2"/>
+<circle cx="18" cy="17" r="3" fill="#1a7f37"/>
+<text x="29" y="21.6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#0969da">s32k144-uds-bootloader</text>
+<text x="350" y="21.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8c959f">&#8599;</text>
+<text x="18" y="69" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#1f2328">56+448</text>
+<text x="18" y="85" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" letter-spacing="0.7" fill="#6e7781">KB · BOOT / APP</text>
+<text x="124" y="69" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#1f2328">6</text>
+<text x="124" y="85" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" letter-spacing="0.7" fill="#6e7781">NRC 分支</text>
+<text x="230" y="69" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="18" font-weight="600" fill="#1f2328">CRC32</text>
+<text x="230" y="85" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" letter-spacing="0.7" fill="#6e7781">校验</text>
+<text x="18" y="109" font-family="-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="9.5" letter-spacing="0.5" fill="#6e7781">ISO 14229 · ISO 15765-2 · FlexCAN 0x7E0 / 0x7E8</text>
+</g>
+<rect x="0.5" y="0.5" width="379" height="117" rx="8" fill="none" stroke="#d0d7de"/>
+</svg>
