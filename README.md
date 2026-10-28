@@ -19,16 +19,31 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,arduino,matlab,vscode,bash" alt="C, C++, Python, Git, GitHub, Linux, Arduino, MATLAB, VS Code, Bash" />
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><b>s32k144-uds-bootloader</b></a>
+<sub>UDS Bootloader · A/B 双分区 · ISO 15765-2 · CRC32</sub>
 
-<sub>CAN 2.0B · UDS ISO 14229 · ISO 15765-2 · FreeRTOS · Simulink / Stateflow / Embedded Coder · S32DS · CANoe / CAPL</sub>
+<a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><b>electronic-shifter-mbd</b></a>
+<sub>电子换挡控制器 · CAN · FreeRTOS · Simulink</sub>
 
 </div>
 
-### 🏆 竞赛
+<div align="center">
 
-- 全国大学生电子设计竞赛（控制类）· 省级一等奖 · 2024.08
-- 蓝桥杯（电子类 · 嵌入式）· 省级二等奖 · 2024.04
+<img src="https://skillicons.dev/icons?i=c,python,matlab" height="40" alt="C, Python, MATLAB" />
+&nbsp;
+<img src="./assets/icons/keil.png" height="40" alt="Keil uVision5" />
+<img src="./assets/icons/cubemx.png" height="40" alt="STM32CubeMX" />
+<img src="./assets/icons/s32ds.png" height="40" alt="S32 Design Studio" />
+<img src="./assets/icons/jlink.png" height="40" alt="J-Link" />
+<img src="./assets/icons/canoe.png" height="40" alt="Vector CANoe" />
+<img src="./assets/icons/peak.png" height="40" alt="PCAN-View" />
+<img src="./assets/icons/saleae.png" height="40" alt="Saleae Logic" />
+<img src="./assets/icons/altium.png" height="40" alt="Altium Designer" />
+<img src="./assets/icons/proteus.png" height="40" alt="Proteus" />
+
+<sub>CAN 2.0B · UDS ISO 14229 · ISO 15765-2 · FreeRTOS · Simulink / Stateflow / Embedded Coder · CANoe / CAPL</sub>
+
+</div>
 
 <div align="center">
 
