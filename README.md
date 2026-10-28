@@ -17,10 +17,8 @@
 
 <div align="center">
 
-<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><b>s32k144-uds-bootloader</b></a><br />
-<sub>UDS Bootloader · A/B 双分区 · ISO 15765-2 · CRC32</sub><br /><br />
-<a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><b>electronic-shifter-mbd</b></a><br />
-<sub>电子换挡控制器 · CAN · FreeRTOS · Simulink</sub><br /><br />
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/boot-dark.svg"><img src="./assets/cards/boot-light.svg" width="420" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/shifter-dark.svg"><img src="./assets/cards/shifter-light.svg" width="420" alt="electronic-shifter-mbd"></picture></a>
+
 <img src="https://skillicons.dev/icons?i=c,python,matlab" height="40" alt="C, Python, MATLAB" />
 &nbsp;
 <img src="./assets/icons/keil.png" height="40" alt="Keil uVision5" />
