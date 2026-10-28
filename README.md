@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1400&amp;color=1F6FEB&amp;vCenter=true&amp;width=460&amp;height=44&amp;lines=%E4%BB%A3%E7%A0%81%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E6%88%91%E6%9D%A5%E6%94%B9%E5%8F%98%E4%BB%A3%E7%A0%81" height="44" alt="代码可以改变世界，我来改变代码" />
+<img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&amp;weight=600&amp;size=22&amp;pause=1400&amp;color=2F81F7&amp;vCenter=true&amp;width=460&amp;height=44&amp;lines=%E4%BB%A3%E7%A0%81%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E6%88%91%E6%9D%A5%E6%94%B9%E5%8F%98%E4%BB%A3%E7%A0%81" height="44" alt="代码可以改变世界，我来改变代码" />
 
 <div align="center">
 
@@ -13,22 +13,14 @@
 
 > —— 先从让每一帧 CAN 报文准时到达开始。
 
-2027 届本科应届，**南京工业职业技术大学 · 汽车服务工程**。
-在 **NXP S32K144 / STM32G474** 上写 C：Bootloader、UDS 诊断、CAN 通信、FreeRTOS 调度。
-比起调界面，我更愿意盯着示波器和 CANoe 的 trace，找那个丢掉的字节。
+2027 届本科应届，**南京工业职业技术大学 · 汽车服务工程**。在 **NXP S32K144 / STM32G474** 上写 C：Bootloader、UDS 诊断、CAN 通信、FreeRTOS 调度。比起调界面，我更愿意盯着示波器和 CANoe 的 trace，找那个丢掉的字节。
 
 <div align="center">
 
-<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><b>s32k144-uds-bootloader</b></a>
-<sub>UDS Bootloader · A/B 双分区 · ISO 15765-2 · CRC32</sub>
-
-<a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><b>electronic-shifter-mbd</b></a>
-<sub>电子换挡控制器 · CAN · FreeRTOS · Simulink</sub>
-
-</div>
-
-<div align="center">
-
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><b>s32k144-uds-bootloader</b></a><br />
+<sub>UDS Bootloader · A/B 双分区 · ISO 15765-2 · CRC32</sub><br /><br />
+<a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><b>electronic-shifter-mbd</b></a><br />
+<sub>电子换挡控制器 · CAN · FreeRTOS · Simulink</sub><br /><br />
 <img src="https://skillicons.dev/icons?i=c,python,matlab" height="40" alt="C, Python, MATLAB" />
 &nbsp;
 <img src="./assets/icons/keil.png" height="40" alt="Keil uVision5" />
@@ -40,13 +32,9 @@
 <img src="./assets/icons/saleae.png" height="40" alt="Saleae Logic" />
 <img src="./assets/icons/altium.png" height="40" alt="Altium Designer" />
 <img src="./assets/icons/proteus.png" height="40" alt="Proteus" />
-
+<br />
 <sub>CAN 2.0B · UDS ISO 14229 · ISO 15765-2 · FreeRTOS · Simulink / Stateflow / Embedded Coder · CANoe / CAPL</sub>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=110&section=footer" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=80&section=footer" width="100%" alt="" />
 
 </div>
