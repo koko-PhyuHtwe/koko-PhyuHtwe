@@ -1,6 +1,6 @@
 <div align="center">
 
-### 徐创 · XU CHUANG
+# 徐创 · XU CHUANG
 
 `嵌入式软件工程师` · `2027 届` · `汽车电子 / 车载网络`
 
@@ -8,8 +8,6 @@
 [![GitHub](https://img.shields.io/badge/koko--PhyuHtwe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/koko-PhyuHtwe)
 
 </div>
-
----
 
 > 「代码可以改变世界，我来改变代码 —— 先从让每一帧 CAN 报文准时到达开始。」
 
