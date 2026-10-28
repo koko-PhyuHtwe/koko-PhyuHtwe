@@ -33,6 +33,4 @@
 <br />
 <sub>CAN 2.0B · UDS ISO 14229 · ISO 15765-2 · FreeRTOS · Simulink / Stateflow / Embedded Coder · CANoe / CAPL</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=80&section=footer" width="100%" alt="" />
-
 </div>
