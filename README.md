@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/panel2-dark.svg"><img src="./assets/cards/panel2-light.svg" width="712" alt="项目"></picture>
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/panel3-left-dark.svg"><img src="./assets/cards/panel3-left-light.svg" width="356" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/panel3-right-dark.svg"><img src="./assets/cards/panel3-right-light.svg" width="356" alt="electronic-shifter-mbd"></picture></a>
 
 <br />
 
