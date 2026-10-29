@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/panel1-dark.svg"><img src="./assets/cards/panel1-light.svg" width="712" alt="项目"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/panel2-dark.svg"><img src="./assets/cards/panel2-light.svg" width="712" alt="项目"></picture>
 
 <br />
 
