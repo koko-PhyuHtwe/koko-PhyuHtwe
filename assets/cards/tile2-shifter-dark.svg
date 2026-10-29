@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="92" viewBox="0 0 356 92">
+<defs><clipPath id="r"><rect x="0" y="0" width="348" height="92" rx="8"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect x="0.5" y="0.5" width="347" height="91" rx="8" fill="#0D1117" stroke="#21262D"/>
+<rect x="18" y="24" width="44" height="44" rx="9" fill="#161B22" stroke="#21262D"/>
+<g fill="none" stroke="#2F81F7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(0 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(45 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(90 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(135 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(180 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(225 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(270 40 46)"/><rect x="36.6" y="27.6" width="6.8" height="5" rx="1.2" transform="rotate(315 40 46)"/><circle cx="40" cy="46" r="9.6"/><circle cx="40" cy="46" r="3.2"/></g>
+<text x="76" y="42" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="15" font-weight="600" fill="#2F81F7">electronic-shifter-mbd</text>
+<text x="76" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei',sans-serif" font-size="12" fill="#7D8590">CAN 换挡 · FreeRTOS 调度 · 超时降级</text>
+<path d="M322 38l5 6-5 6" fill="none" stroke="#2F81F7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+</g>
+</svg>

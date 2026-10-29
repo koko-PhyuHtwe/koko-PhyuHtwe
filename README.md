@@ -13,15 +13,13 @@
 
 > —— 先从让每一帧 CAN 报文准时到达开始。
 
-<sub>2027 届 · 南京工业职业技术大学 · 汽车服务工程</sub>
-<sub>&nbsp;│&nbsp;</sub>
-<sub>比起调界面，我更愿意盯着示波器和 CANoe 的 trace，找那个丢掉的字节</sub>
+2027 届 · 南京工业职业技术大学 · 汽车服务工程&ensp;│&ensp;比起调界面，我更愿意盯着示波器和 CANoe 的 trace，找那个丢掉的字节
 
 <br />
 
 <div align="center">
 
-<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/tile-boot-dark.svg"><img src="./assets/cards/tile-boot-light.svg" width="356" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/tile-shifter-dark.svg"><img src="./assets/cards/tile-shifter-light.svg" width="356" alt="electronic-shifter-mbd"></picture></a>
+<a href="https://github.com/koko-PhyuHtwe/s32k144-uds-bootloader"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/tile2-boot-dark.svg"><img src="./assets/cards/tile2-boot-light.svg" width="356" alt="s32k144-uds-bootloader"></picture></a><a href="https://github.com/koko-PhyuHtwe/electronic-shifter-mbd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/tile2-shifter-dark.svg"><img src="./assets/cards/tile2-shifter-light.svg" width="356" alt="electronic-shifter-mbd"></picture></a>
 
 <br />
 
@@ -38,5 +36,7 @@
 <img src="./assets/icons/proteus.png" height="40" alt="Proteus" />
 <br />
 <sub>CAN 2.0B · UDS ISO 14229 · ISO 15765-2 · FreeRTOS · Simulink / Stateflow / Embedded Coder · CANoe / CAPL</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=80&section=footer" width="100%" alt="" />
 
 </div>
